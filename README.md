@@ -1,6 +1,6 @@
 # CalculadoraJs-FactoryFunction
  
-Link para acessar a calculadora --> https://lucas-tadeu-dev.github.io/CalculadoraJs-FactoryFunction/
+Link para acessar a calculadora --> (https://lucas-tadeu-dev.github.io/CalculadoraJS/)
 
 Neste projeto criei uma calculadora usando Factory Functions com JavaScript, métodos, this, target, manipulação de DOM.
 
